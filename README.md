@@ -1,6 +1,9 @@
 # fi_task01
 Future Interns - Data Science &amp; Analytics - 2026 - Task 1
 
+Task details --- Analyze business sales data to identify revenue trends, top-selling
+products, high-value categories, and regional performance.
+
 dataset used - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 tools used - Microsoft Excel (to clean and analyze the data), Microsoft PowerBi (to create the sales report)
@@ -17,4 +20,5 @@ ii) Total Profit = SUM('Sample - Superstore'[Profit])
 
 iii) Total Sales = SUM('Sample - Superstore'[Sales])
 
-NOTE: open the .pbix file, go to the dashboard/report view and use the interactive charts and graphs to view the data in a structured and categorized format, according to your wish
+Open the .pbix file, go to the dashboard/report view and use the interactive charts and graphs to view the data in a structured and categorized format, according to your wish. Use the dropdown slicers to filter out results and see required information.
+
